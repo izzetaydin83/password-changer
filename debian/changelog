@@ -1,0 +1,6 @@
+password-changer (0.1) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- İzzet Aydın <izzet.aydin@pardus.org.tr>  Wed, 15 Apr 2020 22:08:48 +0300
